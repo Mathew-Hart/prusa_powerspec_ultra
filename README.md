@@ -3,6 +3,10 @@
 PrusaSlicer profiles and Python helpers for a PowerSpec Ultra printer. The
 startup sequence is based on previously successful PowerPrint G-code output.
 
+<img src="docs/images/powerspec-ultra.jpg" alt="PowerSpec Ultra 3D printer" width="600">
+
+*Stock product photo: [Micro Center](https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/448607_705640_01_front_zoom.jpg).*
+
 The important compatibility detail is the startup temperature sequence. The working files use:
 
 ```gcode
